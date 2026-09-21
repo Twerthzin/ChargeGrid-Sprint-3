@@ -203,7 +203,6 @@ Sprint Tritiack/
 ```bash
 # 1. Clonar o repositório
 git clone https://github.com/Twerthzin/ChargeGrid-Sprint-3.git
-cd SEU-REPO
 
 # 2. (Opcional) Criar ambiente virtual
 python -m venv venv
@@ -297,7 +296,7 @@ Este projeto aplica diretamente os conceitos estudados:
 
 ##  Vídeo de Demonstração
 
- [Link do vídeo no YouTube (não listado)](https://youtube.com/SEU-LINK-AQUI)
+https://youtu.be/4WoDNm7HMCo
 
 ---
 
